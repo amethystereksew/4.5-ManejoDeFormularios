@@ -43,6 +43,5 @@ document.getElementById('registroEvento').addEventListener('submit', function (e
     return;
   }
 
-  // Éxito
   alert('Registro exitoso. ¡Gracias por registrarte!');
 });
